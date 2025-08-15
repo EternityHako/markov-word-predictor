@@ -1,0 +1,22 @@
+# Build folders
+/build/
+/CMakeFiles/
+/CMakeCache.txt
+/Makefile
+/cmake_install.cmake
+
+# Binaries
+*.o
+*.exe
+markov
+
+# OS / IDE stuff
+.DS_Store
+*.swp
+*.swo
+*.log
+.vscode/
+.idea/
+
+# Data (optional, keep your PDFs/TXT local)
+data/
