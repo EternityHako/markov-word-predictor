@@ -29,6 +29,7 @@ A simple C++ program that trains a Markov chain on text data and generates rando
    cmake ..
    make
    ```
+   Make sure you're in the root directory (Markov). If you aren't, navigate to it via terminal.
 
 ## Usage
 
