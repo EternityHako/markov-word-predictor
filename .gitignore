@@ -19,4 +19,5 @@ markov
 .idea/
 
 # Data (optional, keep your PDFs/TXT local)
-data/
+data/*
+!data/moby_dick.txt
